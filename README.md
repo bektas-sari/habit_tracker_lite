@@ -1,6 +1,8 @@
 # ✅ Habit Tracker Lite - Flutter Uygulaması
 
-Kullanıcıların günlük alışkanlıklarını takip etmelerine yardımcı olan sade ve etkili bir Flutter uygulamasıdır. Renkli etiketler, yapılacaklar listesi (checkbox), ve alışkanlık silme gibi özellikler içerir. Uygulama tamamen Flutter ile geliştirilmiş olup, gerçek zamanlı veri saklama gerektirmez.
+Kullanıcıların günlük alışkanlıklarını takip etmelerine yardımcı olan sade ve etkili bir Flutter uygulamasıdır. 
+Renkli etiketler, yapılacaklar listesi (checkbox), ve alışkanlık silme gibi özellikler içerir. Uygulama tamamen 
+Flutter ile geliştirilmiş olup, gerçek zamanlı veri saklama gerektirmez.
 
 ---
 
