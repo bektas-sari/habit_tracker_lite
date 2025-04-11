@@ -77,16 +77,15 @@ flutter run
 
 ## 📄 Lisans
 
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına göz atabilirsiniz.
+Bu proje MIT Lisansı ile lisanslanmıştır.
 
 ---
 
 ## 👨‍💻 Geliştirici
 
-Bu uygulama [Senin Adın] tarafından Flutter öğrenim ve uygulama geliştirme amacıyla yapılmıştır.
+Bu uygulama [Bektas Sarı] tarafından Flutter öğrenim ve uygulama geliştirme amacıyla yapılmıştır.
 
-📧 İletişim: seninmailin@example.com  
-🌐 Web: https://seninsiten.com
+📧 İletişim: bektas.sari@gmail.com 
 
 ---
 
