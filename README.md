@@ -51,7 +51,7 @@ habit_tracker_lite/
 
 ### 1. Depoyu Klonlayın
 ```bash
-git clone https://github.com/kullaniciadi/habit_tracker_lite.git
+git clone https://github.com/bektas-sari/habit_tracker_lite.git
 cd habit_tracker_lite
 ```
 
